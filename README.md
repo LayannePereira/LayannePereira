@@ -1,5 +1,8 @@
-  <h1 align="left">Olá!ﾠ<img src="https://user-images.githubusercontent.com/92352134/156424558-74536040-ac78-4c28-8d83-bf965e3dfb1a.gif" width="30px">
-  <p><p> Bem vinde ao meu GitHub!ﾠ</p></h1>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### `<> Olá,Bem vindo ao meu GitHub </>`
+- 🌱 learning <b>web development</b> at [generation brazil](https://brazil.generation.org/) 
+#
 
 <h3> Esses são alguns dados dos meus repositórios:</3> </p>
 <div align="center">
@@ -8,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayannePereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+  <img align="right" height="200em" 
+  src="https://user-images.githubusercontent.com/98171057/154536926-6d65e225-1947-426a-a37d-b06f11c6dc39.png"/>
  <h3> Tenho conhecimento em:</3> </p>
      <img src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
      <img src= https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
@@ -16,8 +21,7 @@
      <img src= https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white>
      <img src=  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
      <img src=  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
-<img align="right" height="150em"
-  src="https://user-images.githubusercontent.com/98171057/154536926-6d65e225-1947-426a-a37d-b06f11c6dc39.png"/>
+
  
    #
   
