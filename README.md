@@ -13,7 +13,7 @@
  
   <img align="right" height="200em" 
   src="https://user-images.githubusercontent.com/98171057/154536926-6d65e225-1947-426a-a37d-b06f11c6dc39.png"/>
- <h3> Tenho conhecimento em:</3> </p>
+ <h2> Tenho conhecimento em:</2> </p>
      <img src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
      <img src= https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
      <img src= https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot>
