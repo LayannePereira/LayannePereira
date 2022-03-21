@@ -1,0 +1,42 @@
+/* Estilos da página index.html */
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content:center ;
+}
+
+#menu li {
+    display: inline;
+    padding: 10px;
+}
+#menu li a {
+    text-decoration: none;
+    color: bisque;
+    font-size: 15px;
+}
+#menu li a:hover{
+    color: grey;
+}
+.p-30 {
+    padding: 30px;
+}
+.br-50{
+    border-radius: 50%;
+}
+.tm-social{
+    width: 2px;
+    height: 5px;
+}
+ 
+.mb-50{
+    margin-bottom: 50px;
+}
+
+/* Estilos da página contatos.html */

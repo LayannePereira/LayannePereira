@@ -6,59 +6,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Palácio das Pratas</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
 
-    <ul>
+    <ul id="menu">
         <li>
             <!--Um item da lista -->
             <!--Tag de ancora (Cria um link e inclui atributos em comum)-->
-            <a href="link aqui dentro ">home</a>
+            <a href="index.html">Home</a>
             <!--se criar um target=""-->
         </li>
-        <li>contato</li>
+        <li>
+            <a href="contatos.html">Contatos</a>
+        </li>
     </ul>
+    <div class="container">
+        <!-- colocando imagem-->
+        <img  src="imagens/Palácio.jpeg" width="300" height="300" alt="Foto da Página Palácio das Pratas">
+        <!--src=" aqui dentro o link da foto"-->
+    </div> 
+   
+    <div class="container">
+       
+        <div class="p-30">
+            <!--Sobre a Pálacio -->
+            <h1 class="center"> Bem vindos!  </h1>
 
-
-    <section class="jumbotron text-center">
-        <div class="container">
-            <img class="foto-perfil" src="imagens/Palácio.jpeg">
-            <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-                min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-            <h1 class="jumbotron-heading textoVerde">Palácio das Pratas</h1>
-            <p class="lead text-muted textoVerde">Loja virtual </p>
-
+            <p class="contailer">
+                <!-- Criando paragrafo-->
+                A Palácio das Pratas é uma loja virtual, a qual fabricamos alianças de Ouro 18k, e Prata 950.
+            </p>
         </div>
-        <!--Sobre mim -->
-        <section class="jumbotron text-center corPrimaria" id="sobre-mim">
-            <div class="container">
-                <h2 class="jombotron-heading titulosVerde">Sobre</h2>
-                <p>
-                    <!-- Criando paragrafo-->
-                    A Palácio das Pratas é uma loja virtual, a qual fabricamos alianças de Ouro 18k, e Prata 950.
-                </p>
-            
-            </div>
-        </section>
-    </section>
+    </div>
 
-    <!-- colocando imagem-->
-    <img src="" alt="Legenda da foto caso fique quebrada ">
-    <!--src=" aqui dentro o link da foto"-->
-
-    <h2>Meu video </h2>
+    <h2 class="center">Meu video </h2>
     <!--Sub titulo-->
 
-    <!--IFRAME é um pedaco de um site dentro do meu site.-->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ng-o2oCi-Y4" 
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <!-- WIDTH, largura -->
-    <!-- HEIGHT, largura -->
-    <!--src=" aqui dentro o link da video"-->
-    <!-- FRAMEBORDER, se quer colocar uma borda -->
-    <!-- ALOOW, permições-->
+    <div class="container mb-50">
+
+        <!--IFRAME é um pedaco de um site dentro do meu site.-->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ng-o2oCi-Y4" title="YouTube video player"
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!-- WIDTH, largura -->
+        <!-- HEIGHT, largura -->
+        <!--src=" aqui dentro o link da video"-->
+        <!-- FRAMEBORDER, se quer colocar uma borda -->
+        <!-- ALOOW, permições-->
+
+    </div>
+ <footer>
+     <hr>
+    <p class="center"> Todos os direitos reservados: Layane Pereira & Michael Douglas &copy; </p>
+    
+ </footer>
 
 </body>
 
