@@ -21,10 +21,40 @@
             <a href="contatos.html">Contatos</a>
         </li>
     </ul>
-    <!-- Contatos -->
-    <h1 style="padding-top:60px" class="text-center">Disponível Nas Redes</h1>
-    <div class="center">
-
+    <!-- Entra em contato -->
+    <h1 class="center">Entre em contato</h1>
+    <div class="container mb-50">
+        <div>
+            <form>
+                <label for="nome">Nome: </label><br>
+                <input type="text" id="nome" onkeyup="validaNome()">
+                <div id="txtNome"></div>
+                <br>
+                <label for="email">E-mail: </label><br>
+                <input type="email" id="email" onkeyup="validaEmail()">
+                <div id="txtEmail"></div>
+                <br>
+                <label for="assunto">Assunto: </label><br>
+                <textarea name="assunto" id="assunto" cols="60" rows="5" onkeyup="validaAssunto()"></textarea>
+                <div id="txtAssunto"></div>
+                <br>
+                <br>
+                <button onclick="enviar()">Enviar</button>
+            </form>
+        </div>
+        <!-- Mapa -->
+        <div>
+            <div class="ml-50">
+                <p>Rua Maria Alves Feitosa, 238</p>
+                <p>São Paulo - SP</p>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3663.8287583867746!2d-46.736604285680905!3d-23.321971058678926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cee41bcccb9abb%3A0x581368f7555a377d!2sR.%20Maria%20Alves%20Feitosa%2C%20288%20-%20Vila%20Rosalina%2C%20Franco%20da%20Rocha%20-%20SP%2C%2007807-220!5e0!3m2!1spt-BR!2sbr!4v1647993242513!5m2!1spt-BR!2sbr"
+                    width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                    onmousemove="mapaZoom()" onmouseout="mapaNormal()" id="mapa"></iframe>
+            </div>
+        </div>
+    </div>
+    <div class="container mb-50">
         <a href="https://www.instagram.com/palacio_das_prata/"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 target="_blank"></a>
@@ -38,16 +68,15 @@
                 target="_blank"></a>
 
         <a class="tm-social" href="https://shopee.com.br/palacio_das_pratas" target="_blank"> <img
-                src="imagens/Shopee.png"
-                width="100px" height="28px" alt="Link shopee"></a>
-
+                src="imagens/Shopee.png" width="100px" height="28px" alt="Link shopee"></a>
     </div>
 
     <footer>
         <hr>
-       <p class="center"> Todos os direitos reservados: Layane Pereira & Michael Douglas &copy; </p>
-       
+        <p class="center"> Todos os direitos reservados: Layane Pereira & Michael Douglas &copy; </p>
+
     </footer>
+    <script src="assets/js/script.js"></script>
 </body>
 
 </html>
