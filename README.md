@@ -1,7 +1,11 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### <h1>`<> Olá,Bem vindo ao meu GitHub </>` </h1>
-- 🌱 learning <b>web development</b> at [generation brazil](https://brazil.generation.org/) 
+- 🌱 learning <b>web development</b> at [generation brazil](https://brazil.generation.org/)
+- 💛 Tenho 23 anos;
+- 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP;
+- 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap e Java;
+- 🌱 Utilizo:Git, Canva e Visual Studio Code;
 #
 
 <h3> Esses são alguns dados dos meus repositórios:</3> </p>
