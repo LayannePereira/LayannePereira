@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### <h1 align="center">`<> Olá,Bem vindo ao meu GitHub </>` </h1> 
-#
+
 
 <h3> Esses são alguns dados dos meus repositórios:</3> </p>
 <div align="center">
