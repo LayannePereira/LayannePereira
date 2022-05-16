@@ -1,6 +1,6 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### < align="center">`<> Olá,Bem vindo ao meu GitHub </>` </h1>
+### <h1 align="center">`<> Olá,Bem vindo ao meu GitHub </>` </h1>
 - 🌱 learning <b>web development</b> at [generation brazil](https://brazil.generation.org/)
 #
 
