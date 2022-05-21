@@ -19,6 +19,7 @@
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&)
+![PostgleSQL](https://img.shields.io/badge/-PostgleSQL-white?style=flat&logo=Postgresql&logoColor=007396&)
 ![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&h)
 ![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&)
 
@@ -29,6 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=Bootstrap&logoColor=7952B3&)
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572B6&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=007396&)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=DAA520&)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&)
 
