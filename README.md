@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/98171057/177011197-5763bda7-fe1a-4c03-b782-3b2f6f1f2cea.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### <h1 align="center">`<> Olá,Bem vindo ao meu GitHub </>` </h1> 
 
