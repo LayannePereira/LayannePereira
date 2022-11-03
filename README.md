@@ -25,6 +25,7 @@
 
 #### Tecnologias que utilizo no Front-end:
 ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&)
+![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
 ![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&)
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=Bootstrap&logoColor=7952B3&)
